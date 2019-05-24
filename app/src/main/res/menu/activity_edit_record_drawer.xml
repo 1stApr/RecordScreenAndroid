@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_new_record"
+            android:icon="@drawable/ic_action_new_record"
+            android:title="New Record" />
+        <item
+            android:id="@+id/nav_view_record"
+            android:icon="@drawable/ic_action_view_record"
+            android:title="View Record" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_action_back"
+            android:title="Back" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send Feedback" />
+        </menu>
+    </item>
+
+</menu>

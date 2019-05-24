@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Record Screen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_record">Edit Record</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_view_record">View Record</string>
+    <string name="off">Off</string>
+    <string name="_30">30</string>
+    <string name="stop">Stop</string>
+    <string name="_100">100%</string>
+    <string name="_50">50%</string>
+    <string name="record">Record</string>
+    <string name="_3s">3s</string>
+    <string name="_60">60</string>
+    <string name="delay">Delay</string>
+    <string name="quality">Quality</string>
+    <string name="sound">Sound</string>
+    <string name="fps">Fps</string>
+    <string name="format">Format</string>
+    <string name="no">No</string>
+    <string name="on">On</string>
+    <string name="preview">Preview</string>
+    <string name="mp4">Mp4</string>
+    <string name="avi">Avi</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_exit">Exit</string>
+</resources>

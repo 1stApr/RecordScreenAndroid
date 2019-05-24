@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111111</color>
+    //mau nen
+    <color name="colorPrimaryDark">#ad8585</color>
+    //mau nen bar
+    <color name="colorAccent">#d2b3b3</color>
+    <color name="colorLight">#ffffff</color>
+    <color name="colorLight2">#f9f7f7</color>
+    <color name="colorDark">#111111</color>
+</resources>
